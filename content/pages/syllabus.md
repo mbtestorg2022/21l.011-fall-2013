@@ -58,38 +58,445 @@ Grading
 
 The course grade is calculated as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| {{< td-colspan 2 >}}{{< h 3 >}}Exams (40% of Total){{< /h >}}{{< /td-colspan >}} ||
-| Quiz + Midterm | 15% |
-| Final | 25% |
-| {{< td-colspan 2 >}}{{< h 3 >}}Papers (50% of Total){{< /h >}}{{< /td-colspan >}} ||
-| Paper 1 | 15% |
-| Paper 2 | 15% |
-| Paper 3 | 20% |
-| {{< td-colspan 2 >}}{{< h 3 >}}Oral Expression (10% of Total){{< /h >}}{{< /td-colspan >}} ||
-| Presentation | 5% |
-| Recitation participation | 5% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+
+
+### Exams (40% of Total)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz + Midterm
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+
+
+### Papers (50% of Total)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 1
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 2
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 3
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+
+
+### Oral Expression (10% of Total)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation participation
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| Week # | LEC # | TOPICS | Required Films | KEY DATES |
-| --- | --- | --- | --- | --- |
-| {{< td-colspan 5 >}}**Part I. The Silent Era** {{< /td-colspan >}} |||||
-| 1 | 1–2 |  {{< br >}}{{< br >}} Introduction {{< br >}}{{< br >}} Keaton {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Porter, _The Great Train Robbery_ {{< br >}}{{< br >}} Griffith, _A Beast at Bay_ {{< br >}}{{< br >}} Keaton, _Cops, The General_ {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Flipped classroom with OCW video lectures {{< br >}}{{< br >}}  |
-| 2 | 3–4 | Chaplin | Chaplin, _The Immigrant, Easy Street, Modern Times_ | Flipped classroom with OCW video lectures |
-| 3 | 5–6 | Film as a Global and Cultural Form; German Film | Murnau, _Nosferatu, The Last Laugh_ | Essay 1 due |
-| {{< td-colspan 5 >}}**Part II. Hollywood Genres** {{< /td-colspan >}} |||||
-| 4 | 7–8 | Hollywood in the 1930s |  {{< br >}}{{< br >}} Capra, _It Happened One Night_ {{< br >}}{{< br >}} Hawks, _His Girl Friday_ {{< br >}}{{< br >}}  | In-class quiz |
-| 5 | 9–10 | Hitchcock | Hitchcock, _Shadow of a Doubt, Rear Window_ | &nbsp; |
-| 6 | 11–12 | The Musical |  {{< br >}}{{< br >}} Donen / Kelly, _Singin' in the Rain_ {{< br >}}{{< br >}} Fosse, _Cabaret_ {{< br >}}{{< br >}}  | Midterm exam |
-| 7 | 13–14 | The Western | Ford, _The Searchers_ | Essay 2 due |
-| 8 | 15–16 | American Film in the 1970s | Altman, _McCabe and Mrs. Miller_ | Flipped classroom with OCW video lectures |
-| {{< td-colspan 5 >}}**Part III.** **International Masters** {{< /td-colspan >}} |||||
-| 9 | 17–18 | Renoir and Poetic Realism | Renoir, _Grand Illusion_ | &nbsp; |
-| 10 | 19–20 | Italian Neorealism | DeSica, _Bicycle Thieves_ |  {{< br >}}{{< br >}} Flipped classroom with OCW video lectures {{< br >}}{{< br >}} Essay 3 due {{< br >}}{{< br >}}  |
-| 11 | 21 | Truffaut and the New Wave | Truffaut, _The 400 Blows_ | &nbsp; |
-| 12 | 22 | Kurosawa’s Rashomon | Kurosawa, _Rashomon_ | &nbsp; |
-| 13 | 23 | Summary Perspectives: Film as Art and Artifact | &nbsp; |
-| &nbsp; | Final Exam | &nbsp; |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Week #
+{{< thclose >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+Required Films
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Part I. The Silent Era** 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+1–2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction
+
+Keaton
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Porter, _The Great Train Robbery_
+
+Griffith, _A Beast at Bay_
+
+Keaton, _Cops, The General_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Flipped classroom with OCW video lectures
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+3–4
+{{< tdclose >}}
+{{< tdopen >}}
+Chaplin
+{{< tdclose >}}
+{{< tdopen >}}
+Chaplin, _The Immigrant, Easy Street, Modern Times_
+{{< tdclose >}}
+{{< tdopen >}}
+Flipped classroom with OCW video lectures
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+5–6
+{{< tdclose >}}
+{{< tdopen >}}
+Film as a Global and Cultural Form; German Film
+{{< tdclose >}}
+{{< tdopen >}}
+Murnau, _Nosferatu, The Last Laugh_
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Part II. Hollywood Genres** 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+7–8
+{{< tdclose >}}
+{{< tdopen >}}
+Hollywood in the 1930s
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Capra, _It Happened One Night_
+
+Hawks, _His Girl Friday_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+In-class quiz
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+9–10
+{{< tdclose >}}
+{{< tdopen >}}
+Hitchcock
+{{< tdclose >}}
+{{< tdopen >}}
+Hitchcock, _Shadow of a Doubt, Rear Window_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+11–12
+{{< tdclose >}}
+{{< tdopen >}}
+The Musical
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Donen / Kelly, _Singin' in the Rain_
+
+Fosse, _Cabaret_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm exam
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+13–14
+{{< tdclose >}}
+{{< tdopen >}}
+The Western
+{{< tdclose >}}
+{{< tdopen >}}
+Ford, _The Searchers_
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+15–16
+{{< tdclose >}}
+{{< tdopen >}}
+American Film in the 1970s
+{{< tdclose >}}
+{{< tdopen >}}
+Altman, _McCabe and Mrs. Miller_
+{{< tdclose >}}
+{{< tdopen >}}
+Flipped classroom with OCW video lectures
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Part III.** **International Masters** 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+17–18
+{{< tdclose >}}
+{{< tdopen >}}
+Renoir and Poetic Realism
+{{< tdclose >}}
+{{< tdopen >}}
+Renoir, _Grand Illusion_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+19–20
+{{< tdclose >}}
+{{< tdopen >}}
+Italian Neorealism
+{{< tdclose >}}
+{{< tdopen >}}
+DeSica, _Bicycle Thieves_
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Flipped classroom with OCW video lectures
+
+Essay 3 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Truffaut and the New Wave
+{{< tdclose >}}
+{{< tdopen >}}
+Truffaut, _The 400 Blows_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Kurosawa’s Rashomon
+{{< tdclose >}}
+{{< tdopen >}}
+Kurosawa, _Rashomon_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Summary Perspectives: Film as Art and Artifact
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
