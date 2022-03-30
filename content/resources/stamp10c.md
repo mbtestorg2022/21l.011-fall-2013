@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of Wikipedia.
   image-alt: US 10 cent postage stamp with D.W. Griffith's head in profile and a drawing
     of a movie camera.
+parent_uid: 4029992a-5d00-3e2d-067f-3537974d62fa
 resourcetype: Image
 title: D. W. Griffith Stamp
 uid: 4a22d477-73a6-35ce-8f89-2cf5130acd10

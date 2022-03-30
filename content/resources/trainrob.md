@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of Wikipedia.
   image-alt: Poster image for The Great Train Robbery, with a stopped steam locomotive
     and bandits with guns.
+parent_uid: 4029992a-5d00-3e2d-067f-3537974d62fa
 resourcetype: Image
 title: The Great Train Robbery Poster
 uid: 36868423-9556-0abe-8049-8865aff03460

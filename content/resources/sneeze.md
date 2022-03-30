@@ -8,6 +8,7 @@ image_metadata:
   caption: Charlie Chaplin in a still from his 1921 film The Kid.
   credit: Image courtesy of Wikipedia.
   image-alt: Sequence of three film stills showing a man progressing through a sneeze.
+parent_uid: 4029992a-5d00-3e2d-067f-3537974d62fa
 resourcetype: Image
 title: Kinetoscopic Record of a Sneeze
 uid: 55adeaed-9bb7-9d73-7ae9-eace0d9fea33

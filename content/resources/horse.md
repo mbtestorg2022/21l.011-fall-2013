@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of Wikipedia.
   image-alt: Four film stills of a horse running, showing that its legs are all off
     the ground in mid-stride.
+parent_uid: 4029992a-5d00-3e2d-067f-3537974d62fa
 resourcetype: Image
 title: Galloping Horse
 uid: 0e990ef5-06c3-5e2f-51ea-a9712c41cdf0

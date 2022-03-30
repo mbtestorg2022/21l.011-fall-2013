@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of Wikipedia.
   image-alt: Film still of Buster Keaton sitting in a steam locomotive, facing the
     viewer.
+parent_uid: 4029992a-5d00-3e2d-067f-3537974d62fa
 resourcetype: Image
 title: Buster Keaton's "great stone face"
 uid: 2edc9924-eb9d-ec34-ccf0-506f387ba13b

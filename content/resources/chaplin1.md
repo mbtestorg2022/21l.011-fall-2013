@@ -7,6 +7,7 @@ image_metadata:
   caption: Charlie Chaplin in a still from his 1921 film The Kid.
   credit: Image courtesy of Wikipedia.
   image-alt: Portrait photo of Charlie Chaplin wearing his signature bowler hat.
+parent_uid: 4029992a-5d00-3e2d-067f-3537974d62fa
 resourcetype: Image
 title: Charlie Chaplin as the Tramp
 uid: 54fa5487-0512-89f8-f780-a292adaf133a

@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of Wikipedia.
   image-alt: Film still of Charlie Chaplin 'Tramp' character sitting in a doorway
     beside a young child.
+parent_uid: 4029992a-5d00-3e2d-067f-3537974d62fa
 resourcetype: Image
 title: Charlie Chaplin in The Kid
 uid: 64bd3e33-aad7-79c2-69e1-58daa291be1a

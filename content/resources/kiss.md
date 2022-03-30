@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of Wikipedia.
   image-alt: Sequence of three film stills showing a man approaching, embracing and
     kissing a woman.
+parent_uid: 4029992a-5d00-3e2d-067f-3537974d62fa
 resourcetype: Image
 title: The Kiss
 uid: 338904ee-b567-5742-d993-ce5ef63b4970

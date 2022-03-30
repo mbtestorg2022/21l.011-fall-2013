@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 17c63899-0828-3a9d-8260-5e0aff0baad2
 resourcetype: Image
 title: 21L.011 Students
 uid: bd4db805-f1aa-1381-1a0a-19a330885c0a
